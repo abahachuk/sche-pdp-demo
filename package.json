@@ -1,0 +1,23 @@
+{
+  "name": "sche-pdp-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abahachuk/sche-pdp-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abahachuk/sche-pdp-demo/issues"
+  },
+  "homepage": "https://github.com/abahachuk/sche-pdp-demo#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "schneider-components": "1.1.0"
+  }
+}
