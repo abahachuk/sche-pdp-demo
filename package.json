@@ -19,6 +19,6 @@
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^2.2.10",
     "express": "^4.16.4",
-    "schneider-components": "^1.6.0"
+    "schneider-components": "^1.7.0"
   }
 }
